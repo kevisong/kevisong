@@ -8,8 +8,6 @@
 [![PSN](https://img.shields.io/badge/PSN:KKEVISONG-0070d1?logo=playstation&logoColor=white)](https://www.playstation.com/)
 [![Discord](https://img.shields.io/badge/Discord:KEVISONG%232372-5865f2?logo=discord&logoColor=white)](https://discord.com/)
 
-<img align="right" src="https://media.giphy.com/media/A7eRyKtVD3HEI/giphy.gif" width="280"/>
-
 ---
 
 - 🔭 I’m currently working on cloud native observability.
