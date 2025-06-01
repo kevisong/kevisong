@@ -1,16 +1,15 @@
 ### Hi there I am Kevin Song👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=KEVISONG)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/KEVISONG)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KKEVISONG)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kkevisong@gmail.com)
+![visitors](https://visitor-badge.laobi.icu/badge?style=for-the-badge&page_id=KEVISONG)
 
-[![PSN](https://img.shields.io/badge/PSN:KKEVISONG-0070d1?logo=playstation&logoColor=white)](https://www.playstation.com/)
-[![Discord](https://img.shields.io/badge/Discord:KEVISONG%232372-5865f2?logo=discord&logoColor=white)](https://discord.com/)
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevisong)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kevisongx)
 
 ---
 
-- 🔭 I’m currently working on cloud native observability.
+- 🔭 I’m currently working on [trae.ai](https://www.trae.ai).
 - 👯 I’m looking to collaborate on all the amazing Open Source projects.
 - ⚡ Fun fact: I ❤️ GAMING and RUNNING.
 
@@ -40,16 +39,20 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://github.com/golang/go)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<!--
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://github.com/angular/angular)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://github.com/facebook/react)
+-->
 
-[![Elastic](https://img.shields.io/badge/Elastic-24bbb1?logo=elasticsearch)](https://github.com/elastic/elasticsearch)
-[![MySQL](https://img.shields.io/badge/MySQL-000000?&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)](https://github.com/kubernetes/kubernetes)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
-[![Grafana](https://img.shields.io/badge/Grafana-%23fb9d5a.svg?logo=grafana&logoColor=white)](https://github.com/grafana/grafana)
-[![Kibana](https://img.shields.io/badge/Kibana-%23ef5098.svg?logo=kibana&logoColor=white)](https://github.com/elastic/kibana)
-[![Prometheus](https://img.shields.io/badge/Prometheus-%23e6512c.svg?logo=prometheus&logoColor=white)](https://github.com/prometheus/prometheus)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Elastic](https://img.shields.io/badge/Elastic-24BBB1?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-FB9D5A?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6512C?style=for-the-badge&logo=prometheus&logoColor=white)
