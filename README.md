@@ -1,6 +1,6 @@
 ### Hi there I am Kevin Song👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?style=for-the-badge&page_id=KEVISONG)
+<!--![visitors](https://visitor-badge.laobi.icu/badge?style=for-the-badge&page_id=KEVISONG)-->
 
 
 
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+
 <table border="0">
     <tr>
         <td><center><img align="center" src="https://github-readme-stats.vercel.app/api?username=KEVISONG&show_icons=true&count_private=true&hide_title=true&theme=chartreuse-dark"></center></td>
@@ -46,7 +48,7 @@ Here are some ideas to get you started:
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://github.com/facebook/react)
 -->
 
-
+<!--
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
