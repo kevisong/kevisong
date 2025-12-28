@@ -1,4 +1,4 @@
-### Hi there I am Kevin Song👋
+### Hi there, I am Kevin Song👋
 
 <!--![visitors](https://visitor-badge.laobi.icu/badge?style=for-the-badge&page_id=KEVISONG)-->
 
@@ -7,6 +7,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevisong)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kevisongx)
 
+<!--
+
 ---
 
 - 🔭 I’m currently working on [trae.ai](https://www.trae.ai).
@@ -14,6 +16,8 @@
 - ⚡ Fun fact: I ❤️ GAMING and RUNNING.
 
 ---
+
+-->
 
 <!--
 **KEVISONG/KEVISONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
